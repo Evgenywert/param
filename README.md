@@ -142,7 +142,7 @@ POST /api/cancel
  •	Пишет информацию в логи.
 ```
 место успешно заблокировано и недоступно для других пользователей
-![sheduled](docs/images/sqlDloked_409.png)
+![sheduled](docs/images/sqlDloked409.png)
 
 Второй скрин
 демонстрирует работу BookingCleaner — фонового шедулера,
