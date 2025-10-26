@@ -7,7 +7,7 @@
 
 
 
-#   Booking Service — микросервис бронирования мест
+#   Booking Service — сервис бронирования мест
 
 [![Java](https://img.shields.io/badge/Java-17-blue?logo=openjdk)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.7-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
